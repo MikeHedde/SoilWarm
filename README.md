@@ -28,14 +28,14 @@ FEATURES }}**
 
 This repository is structured as follow:
 
--   [`DESCRIPTION`](https://github.com/MikeHedde/SoilWarm/tree/master/DESCRIPTION):
+-   [`DESCRIPTION`](https://github.com/MikeHedde/SoilWarm/tree/main/DESCRIPTION):
     contains project metadata (authors, date, dependencies, etc.)
 
--   [`make.R`](https://github.com/MikeHedde/SoilWarm/tree/master/make.R):
+-   [`make.R`](https://github.com/MikeHedde/SoilWarm/tree/main/make.R):
     main R script to run the entire project
 
--   [`R/`](https://github.com/MikeHedde/SoilWarm/tree/master/R):
-    contains R functions developed especially for this project
+-   [`R/`](https://github.com/MikeHedde/SoilWarm/tree/main/R): contains
+    R functions developed especially for this project
 
 -   **{{ LIST ADDITIONAL FILES/FOLDER }}**
 
@@ -54,8 +54,8 @@ To install this compendium:
 ## Usage
 
 Launch the
-[`make.R`](https://github.com/MikeHedde/SoilWarm/tree/master/make.R)
-file with:
+[`make.R`](https://github.com/MikeHedde/SoilWarm/tree/main/make.R) file
+with:
 
     source("make.R")
 

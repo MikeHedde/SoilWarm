@@ -25,7 +25,7 @@ maintainers and smooth out the experience for all involved.
 ## Code of conduct
 
 This project is released with a
-[Contributor Code of Conduct](https://github.com/MikeHedde/SoilWarm/blob/master/CODE_OF_CONDUCT.md).
+[Contributor Code of Conduct](https://github.com/MikeHedde/SoilWarm/blob/main/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report 
 unacceptable behavior to <mickael.hedde@inrae.fr>.
 
@@ -59,7 +59,7 @@ If you then still feel the need to ask a question and need clarification, we
 recommend the following:
 
 - Open a new [Issue](https://github.com/MikeHedde/SoilWarm/issues/new).
-- Use the template [other_issue.md](https://github.com/MikeHedde/SoilWarm/blob/master/.github/ISSUE_TEMPLATE/other_issue.md).
+- Use the template [other_issue.md](https://github.com/MikeHedde/SoilWarm/blob/main/.github/ISSUE_TEMPLATE/other_issue.md).
 - Provide as much context as you can about what you're running into.
 - Provide project and platform versions (paste the output of `sessionInfo()`).
 
@@ -92,7 +92,7 @@ We use [GitHub Issues](https://github.com/MikeHedde/SoilWarm/issues) to
 track bugs and errors. If you run into an issue with the project:
 
 - Open a new [Issue](https://github.com/MikeHedde/SoilWarm/issues/new).
-- Use the template [bug_report.md](https://github.com/MikeHedde/SoilWarm/blob/master/.github/ISSUE_TEMPLATE/bug_report.md).
+- Use the template [bug_report.md](https://github.com/MikeHedde/SoilWarm/blob/main/.github/ISSUE_TEMPLATE/bug_report.md).
 - Explain the behavior you would expect and the actual behavior.
 - Please provide as much context as possible and describe the 
 *reproduction steps* that someone else can follow to recreate the issue on 
@@ -123,7 +123,7 @@ Feature requests are tracked as
 [GitHub Issues](https://github.com/MikeHedde/SoilWarm/issues).
 
 - Open a new [Issue](https://github.com/MikeHedde/SoilWarm/issues/new).
-- Use the template [feature_request.md](https://github.com/MikeHedde/SoilWarm/blob/master/.github/ISSUE_TEMPLATE/feature_request.md).
+- Use the template [feature_request.md](https://github.com/MikeHedde/SoilWarm/blob/main/.github/ISSUE_TEMPLATE/feature_request.md).
 - Provide a clear and descriptive title for the issue to identify the suggestion.
 - Provide a step-by-step description of the suggested enhancement in as 
 many details as possible.
