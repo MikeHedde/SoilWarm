@@ -1,0 +1,7 @@
+Fichiers avec _AR OK
+
+Bactéries et Archae en cours de réanalyse- modification de la stringence au niveau de la reconnaissance des amorces dans le pipeline informatique pour meilleure séparation des séquences qui viennent du barcode bactéries ou archae
+
+Nématodes, en cours de réanalyse avec la base de données nemabase (silva 18S amélioré)
+
+Microeuc analysés avec 3 bases de données
