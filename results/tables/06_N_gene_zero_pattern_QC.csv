@@ -1,0 +1,2 @@
+"Number","MET","Year","LandUse","LandUseTrajectory","LandUseState","Treatment","Plot","Block","Depth","profile_id","sample_unit_id","DNA_concentration","AOA","AOB","ComA","ComB","nirS","nirK","nosZ1","n_gene_zero"
+63,"MET250188",2023,"Cropland","TP_to_Crop","Crop","Control","C1",1,"15-30","Cropland__Control__1","Cropland__Control__1__15-30",214,0,0,0,0,0,0,0,7

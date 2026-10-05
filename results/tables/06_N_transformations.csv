@@ -1,0 +1,3 @@
+"block","variables","transformation","primary_PCA_variables"
+"potential_N_activities","PGNP;PNNP;N2O_reduction;NEA","log1p then z-standardisation across pooled 2022-2024","PGNP;PNNP;N2O_reduction;NEA"
+"gene_potential","AOA;AOB;ComA;ComB;nirS;nirK;nosZ1","log10(x+1) then z-standardisation across pooled 2022-2024","AOA;AOB;ComA;nirS;nirK;nosZ1"

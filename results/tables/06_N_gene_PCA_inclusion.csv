@@ -1,0 +1,8 @@
+"variable","n_missing","included_primary_PCA","reason_excluded"
+"AOA",0,TRUE,NA
+"AOB",0,TRUE,NA
+"ComA",0,TRUE,NA
+"ComB",1,FALSE,"One missing observation; retained in data but excluded from primary gene PCA."
+"nirS",0,TRUE,NA
+"nirK",0,TRUE,NA
+"nosZ1",0,TRUE,NA

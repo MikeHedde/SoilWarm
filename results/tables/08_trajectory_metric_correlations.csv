@@ -1,0 +1,6 @@
+"metric","tax_column","N_column","rho","p_perm","n_perm","p_FDR"
+"total_length","tax_total_length","N_total_length",-0.0715572715572716,0.780864197530864,1296,0.981481481481482
+"net_displacement","tax_net_displacement","N_net_displacement",-0.0347490347490348,0.981481481481482,1296,0.981481481481482
+"straightness","tax_straightness","N_straightness",-0.212355212355212,0.153549382716049,1296,0.767746913580247
+"early_fraction","tax_early_fraction","N_early_fraction",0.015958815958816,0.893518518518518,1296,0.981481481481482
+"turning_angle_deg","tax_turning_angle_deg","N_turning_angle_deg",0.0239382239382239,0.773148148148148,1296,0.981481481481482

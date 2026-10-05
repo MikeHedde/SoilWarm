@@ -1,0 +1,4 @@
+"comparison","domain_1","domain_2","domain_1_mean_early_fraction","domain_2_mean_early_fraction","observed_mean_timing_shift","p_exact_two_sided","n_profile_sign_flips","null_q025","null_median","null_q975","p_FDR_pairwise"
+"Gene potential - Taxonomy","Taxonomy","N gene potential",0.662616136598275,0.601008570046079,0.123215133104391,0.27392578125,4096,-0.210133510309459,0,0.210133510309459,0.27392578125
+"N activities - Gene potential","N gene potential","Potential N activities",0.601008570046079,0.390106772413609,0.421803595264941,0.001953125,4096,-0.276848947735152,0,0.276848947735152,0.0029296875
+"N activities - Taxonomy","Taxonomy","Potential N activities",0.662616136598275,0.390106772413609,0.545018728369332,0.00048828125,4096,-0.31657589057347,0,0.31657589057347,0.00146484375

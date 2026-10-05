@@ -1,0 +1,2 @@
+"contrast","mean_difference","interpretation","estimate","p_exact_two_sided","n_profile_pair_flips","null_q025","null_median","null_q975"
+"TP_to_Crop_minus_Stable_PP",-0.171339035286167,"Positive = stronger taxonomy-function temporal offset under TP_to_Crop; negative = stronger offset under Stable_PP.",-0.171339035286167,0.15625,64,-0.215332673928562,0,0.215332673928562

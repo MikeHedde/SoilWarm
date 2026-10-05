@@ -1,0 +1,5 @@
+"method","n_rows","n_profiles","n_strata","profiles_per_stratum","theoretical_permutations","generated_permutations","strata","matched_within_profile","analysis"
+"exact",36,12,4,"3;3;3;3",1296,1296,"LandUse × Treatment","Depth","trajectory_metrics"
+"exact",72,12,4,"3;3;3;3",1296,1296,"LandUse × Treatment","Interval × Depth","pooled_annual_intervals"
+"exact",36,12,4,"3;3;3;3",1296,1296,"LandUse × Treatment","Depth","net_2022_2024"
+"exact",72,12,4,"3;3;3;3",1296,1296,"LandUse × Treatment","Interval × Depth","gene_pooled_annual_intervals"

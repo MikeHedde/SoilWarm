@@ -1,0 +1,217 @@
+"sample_unit_id","profile_id","LandUse","Treatment","Plot","Block","Depth","Domain","Interval","fraction_total_trajectory"
+"Cropland__Control__1__0-15","Cropland__Control__1","Cropland","Control","C1","1","0-15","Taxonomy","2022-2023",0.840845954051284
+"Cropland__Control__1__0-15","Cropland__Control__1","Cropland","Control","C1","1","0-15","Taxonomy","2023-2024",0.159154045948716
+"Cropland__Control__1__15-30","Cropland__Control__1","Cropland","Control","C1","1","15-30","Taxonomy","2022-2023",0.619671055318681
+"Cropland__Control__1__15-30","Cropland__Control__1","Cropland","Control","C1","1","15-30","Taxonomy","2023-2024",0.380328944681319
+"Cropland__Control__1__30-50","Cropland__Control__1","Cropland","Control","C1","1","30-50","Taxonomy","2022-2023",0.524203482516289
+"Cropland__Control__1__30-50","Cropland__Control__1","Cropland","Control","C1","1","30-50","Taxonomy","2023-2024",0.475796517483711
+"Cropland__Control__2__0-15","Cropland__Control__2","Cropland","Control","C2","2","0-15","Taxonomy","2022-2023",0.826807567017453
+"Cropland__Control__2__0-15","Cropland__Control__2","Cropland","Control","C2","2","0-15","Taxonomy","2023-2024",0.173192432982547
+"Cropland__Control__2__15-30","Cropland__Control__2","Cropland","Control","C2","2","15-30","Taxonomy","2022-2023",0.599757133518613
+"Cropland__Control__2__15-30","Cropland__Control__2","Cropland","Control","C2","2","15-30","Taxonomy","2023-2024",0.400242866481387
+"Cropland__Control__2__30-50","Cropland__Control__2","Cropland","Control","C2","2","30-50","Taxonomy","2022-2023",0.754854438596944
+"Cropland__Control__2__30-50","Cropland__Control__2","Cropland","Control","C2","2","30-50","Taxonomy","2023-2024",0.245145561403056
+"Cropland__Control__3__0-15","Cropland__Control__3","Cropland","Control","C3","3","0-15","Taxonomy","2022-2023",0.61243397691896
+"Cropland__Control__3__0-15","Cropland__Control__3","Cropland","Control","C3","3","0-15","Taxonomy","2023-2024",0.38756602308104
+"Cropland__Control__3__15-30","Cropland__Control__3","Cropland","Control","C3","3","15-30","Taxonomy","2022-2023",0.894844214176052
+"Cropland__Control__3__15-30","Cropland__Control__3","Cropland","Control","C3","3","15-30","Taxonomy","2023-2024",0.105155785823948
+"Cropland__Control__3__30-50","Cropland__Control__3","Cropland","Control","C3","3","30-50","Taxonomy","2022-2023",0.435731539671341
+"Cropland__Control__3__30-50","Cropland__Control__3","Cropland","Control","C3","3","30-50","Taxonomy","2023-2024",0.564268460328659
+"Cropland__Heated__1__0-15","Cropland__Heated__1","Cropland","Heated","T1","1","0-15","Taxonomy","2022-2023",0.507699099110481
+"Cropland__Heated__1__0-15","Cropland__Heated__1","Cropland","Heated","T1","1","0-15","Taxonomy","2023-2024",0.492300900889519
+"Cropland__Heated__1__15-30","Cropland__Heated__1","Cropland","Heated","T1","1","15-30","Taxonomy","2022-2023",0.526550209441104
+"Cropland__Heated__1__15-30","Cropland__Heated__1","Cropland","Heated","T1","1","15-30","Taxonomy","2023-2024",0.473449790558896
+"Cropland__Heated__1__30-50","Cropland__Heated__1","Cropland","Heated","T1","1","30-50","Taxonomy","2022-2023",0.481254196019148
+"Cropland__Heated__1__30-50","Cropland__Heated__1","Cropland","Heated","T1","1","30-50","Taxonomy","2023-2024",0.518745803980852
+"Cropland__Heated__2__0-15","Cropland__Heated__2","Cropland","Heated","T2","2","0-15","Taxonomy","2022-2023",0.750646138544015
+"Cropland__Heated__2__0-15","Cropland__Heated__2","Cropland","Heated","T2","2","0-15","Taxonomy","2023-2024",0.249353861455985
+"Cropland__Heated__2__15-30","Cropland__Heated__2","Cropland","Heated","T2","2","15-30","Taxonomy","2022-2023",0.651005516512569
+"Cropland__Heated__2__15-30","Cropland__Heated__2","Cropland","Heated","T2","2","15-30","Taxonomy","2023-2024",0.348994483487431
+"Cropland__Heated__2__30-50","Cropland__Heated__2","Cropland","Heated","T2","2","30-50","Taxonomy","2022-2023",0.644491622717071
+"Cropland__Heated__2__30-50","Cropland__Heated__2","Cropland","Heated","T2","2","30-50","Taxonomy","2023-2024",0.355508377282929
+"Cropland__Heated__3__0-15","Cropland__Heated__3","Cropland","Heated","T3","3","0-15","Taxonomy","2022-2023",0.76448771814947
+"Cropland__Heated__3__0-15","Cropland__Heated__3","Cropland","Heated","T3","3","0-15","Taxonomy","2023-2024",0.23551228185053
+"Cropland__Heated__3__15-30","Cropland__Heated__3","Cropland","Heated","T3","3","15-30","Taxonomy","2022-2023",0.712983289555396
+"Cropland__Heated__3__15-30","Cropland__Heated__3","Cropland","Heated","T3","3","15-30","Taxonomy","2023-2024",0.287016710444604
+"Cropland__Heated__3__30-50","Cropland__Heated__3","Cropland","Heated","T3","3","30-50","Taxonomy","2022-2023",0.778482422526379
+"Cropland__Heated__3__30-50","Cropland__Heated__3","Cropland","Heated","T3","3","30-50","Taxonomy","2023-2024",0.221517577473621
+"Grassland__Control__1__0-15","Grassland__Control__1","Grassland","Control","C1","1","0-15","Taxonomy","2022-2023",0.543446843524116
+"Grassland__Control__1__0-15","Grassland__Control__1","Grassland","Control","C1","1","0-15","Taxonomy","2023-2024",0.456553156475884
+"Grassland__Control__1__15-30","Grassland__Control__1","Grassland","Control","C1","1","15-30","Taxonomy","2022-2023",0.802685318372627
+"Grassland__Control__1__15-30","Grassland__Control__1","Grassland","Control","C1","1","15-30","Taxonomy","2023-2024",0.197314681627373
+"Grassland__Control__1__30-50","Grassland__Control__1","Grassland","Control","C1","1","30-50","Taxonomy","2022-2023",0.676602848454953
+"Grassland__Control__1__30-50","Grassland__Control__1","Grassland","Control","C1","1","30-50","Taxonomy","2023-2024",0.323397151545047
+"Grassland__Control__2__0-15","Grassland__Control__2","Grassland","Control","C2","2","0-15","Taxonomy","2022-2023",0.691739230617106
+"Grassland__Control__2__0-15","Grassland__Control__2","Grassland","Control","C2","2","0-15","Taxonomy","2023-2024",0.308260769382894
+"Grassland__Control__2__15-30","Grassland__Control__2","Grassland","Control","C2","2","15-30","Taxonomy","2022-2023",0.806486562256684
+"Grassland__Control__2__15-30","Grassland__Control__2","Grassland","Control","C2","2","15-30","Taxonomy","2023-2024",0.193513437743316
+"Grassland__Control__2__30-50","Grassland__Control__2","Grassland","Control","C2","2","30-50","Taxonomy","2022-2023",0.640914122161363
+"Grassland__Control__2__30-50","Grassland__Control__2","Grassland","Control","C2","2","30-50","Taxonomy","2023-2024",0.359085877838637
+"Grassland__Control__3__0-15","Grassland__Control__3","Grassland","Control","C3","3","0-15","Taxonomy","2022-2023",0.409948985524037
+"Grassland__Control__3__0-15","Grassland__Control__3","Grassland","Control","C3","3","0-15","Taxonomy","2023-2024",0.590051014475963
+"Grassland__Control__3__15-30","Grassland__Control__3","Grassland","Control","C3","3","15-30","Taxonomy","2022-2023",0.812239166538292
+"Grassland__Control__3__15-30","Grassland__Control__3","Grassland","Control","C3","3","15-30","Taxonomy","2023-2024",0.187760833461708
+"Grassland__Control__3__30-50","Grassland__Control__3","Grassland","Control","C3","3","30-50","Taxonomy","2022-2023",0.725908126439457
+"Grassland__Control__3__30-50","Grassland__Control__3","Grassland","Control","C3","3","30-50","Taxonomy","2023-2024",0.274091873560543
+"Grassland__Heated__1__0-15","Grassland__Heated__1","Grassland","Heated","T1","1","0-15","Taxonomy","2022-2023",0.690896795248121
+"Grassland__Heated__1__0-15","Grassland__Heated__1","Grassland","Heated","T1","1","0-15","Taxonomy","2023-2024",0.309103204751879
+"Grassland__Heated__1__15-30","Grassland__Heated__1","Grassland","Heated","T1","1","15-30","Taxonomy","2022-2023",0.728786002914641
+"Grassland__Heated__1__15-30","Grassland__Heated__1","Grassland","Heated","T1","1","15-30","Taxonomy","2023-2024",0.271213997085359
+"Grassland__Heated__1__30-50","Grassland__Heated__1","Grassland","Heated","T1","1","30-50","Taxonomy","2022-2023",0.668295356737498
+"Grassland__Heated__1__30-50","Grassland__Heated__1","Grassland","Heated","T1","1","30-50","Taxonomy","2023-2024",0.331704643262502
+"Grassland__Heated__2__0-15","Grassland__Heated__2","Grassland","Heated","T2","2","0-15","Taxonomy","2022-2023",0.794881812310006
+"Grassland__Heated__2__0-15","Grassland__Heated__2","Grassland","Heated","T2","2","0-15","Taxonomy","2023-2024",0.205118187689994
+"Grassland__Heated__2__15-30","Grassland__Heated__2","Grassland","Heated","T2","2","15-30","Taxonomy","2022-2023",0.610455390843523
+"Grassland__Heated__2__15-30","Grassland__Heated__2","Grassland","Heated","T2","2","15-30","Taxonomy","2023-2024",0.389544609156477
+"Grassland__Heated__2__30-50","Grassland__Heated__2","Grassland","Heated","T2","2","30-50","Taxonomy","2022-2023",0.605975518116009
+"Grassland__Heated__2__30-50","Grassland__Heated__2","Grassland","Heated","T2","2","30-50","Taxonomy","2023-2024",0.394024481883991
+"Grassland__Heated__3__0-15","Grassland__Heated__3","Grassland","Heated","T3","3","0-15","Taxonomy","2022-2023",0.568330228400643
+"Grassland__Heated__3__0-15","Grassland__Heated__3","Grassland","Heated","T3","3","0-15","Taxonomy","2023-2024",0.431669771599357
+"Grassland__Heated__3__15-30","Grassland__Heated__3","Grassland","Heated","T3","3","15-30","Taxonomy","2022-2023",0.50461782801322
+"Grassland__Heated__3__15-30","Grassland__Heated__3","Grassland","Heated","T3","3","15-30","Taxonomy","2023-2024",0.49538217198678
+"Grassland__Heated__3__30-50","Grassland__Heated__3","Grassland","Heated","T3","3","30-50","Taxonomy","2022-2023",0.645221206704353
+"Grassland__Heated__3__30-50","Grassland__Heated__3","Grassland","Heated","T3","3","30-50","Taxonomy","2023-2024",0.354778793295647
+"Cropland__Control__1__0-15","Cropland__Control__1","Cropland","Control","C1","1","0-15","N gene potential","2022-2023",0.806459708966365
+"Cropland__Control__1__0-15","Cropland__Control__1","Cropland","Control","C1","1","0-15","N gene potential","2023-2024",0.193540291033635
+"Cropland__Control__1__15-30","Cropland__Control__1","Cropland","Control","C1","1","15-30","N gene potential","2022-2023",0.499633648961495
+"Cropland__Control__1__15-30","Cropland__Control__1","Cropland","Control","C1","1","15-30","N gene potential","2023-2024",0.500366351038505
+"Cropland__Control__1__30-50","Cropland__Control__1","Cropland","Control","C1","1","30-50","N gene potential","2022-2023",0.815455256589548
+"Cropland__Control__1__30-50","Cropland__Control__1","Cropland","Control","C1","1","30-50","N gene potential","2023-2024",0.184544743410452
+"Cropland__Control__2__0-15","Cropland__Control__2","Cropland","Control","C2","2","0-15","N gene potential","2022-2023",0.623793161946717
+"Cropland__Control__2__0-15","Cropland__Control__2","Cropland","Control","C2","2","0-15","N gene potential","2023-2024",0.376206838053283
+"Cropland__Control__2__15-30","Cropland__Control__2","Cropland","Control","C2","2","15-30","N gene potential","2022-2023",0.628488916335329
+"Cropland__Control__2__15-30","Cropland__Control__2","Cropland","Control","C2","2","15-30","N gene potential","2023-2024",0.371511083664671
+"Cropland__Control__2__30-50","Cropland__Control__2","Cropland","Control","C2","2","30-50","N gene potential","2022-2023",0.872488094933298
+"Cropland__Control__2__30-50","Cropland__Control__2","Cropland","Control","C2","2","30-50","N gene potential","2023-2024",0.127511905066702
+"Cropland__Control__3__0-15","Cropland__Control__3","Cropland","Control","C3","3","0-15","N gene potential","2022-2023",0.815497007352042
+"Cropland__Control__3__0-15","Cropland__Control__3","Cropland","Control","C3","3","0-15","N gene potential","2023-2024",0.184502992647958
+"Cropland__Control__3__15-30","Cropland__Control__3","Cropland","Control","C3","3","15-30","N gene potential","2022-2023",0.733771460111213
+"Cropland__Control__3__15-30","Cropland__Control__3","Cropland","Control","C3","3","15-30","N gene potential","2023-2024",0.266228539888787
+"Cropland__Control__3__30-50","Cropland__Control__3","Cropland","Control","C3","3","30-50","N gene potential","2022-2023",0.759028755380375
+"Cropland__Control__3__30-50","Cropland__Control__3","Cropland","Control","C3","3","30-50","N gene potential","2023-2024",0.240971244619625
+"Cropland__Heated__1__0-15","Cropland__Heated__1","Cropland","Heated","T1","1","0-15","N gene potential","2022-2023",0.784798875436688
+"Cropland__Heated__1__0-15","Cropland__Heated__1","Cropland","Heated","T1","1","0-15","N gene potential","2023-2024",0.215201124563312
+"Cropland__Heated__1__15-30","Cropland__Heated__1","Cropland","Heated","T1","1","15-30","N gene potential","2022-2023",0.651260022354209
+"Cropland__Heated__1__15-30","Cropland__Heated__1","Cropland","Heated","T1","1","15-30","N gene potential","2023-2024",0.348739977645791
+"Cropland__Heated__1__30-50","Cropland__Heated__1","Cropland","Heated","T1","1","30-50","N gene potential","2022-2023",0.898343101171363
+"Cropland__Heated__1__30-50","Cropland__Heated__1","Cropland","Heated","T1","1","30-50","N gene potential","2023-2024",0.101656898828637
+"Cropland__Heated__2__0-15","Cropland__Heated__2","Cropland","Heated","T2","2","0-15","N gene potential","2022-2023",0.688073237791149
+"Cropland__Heated__2__0-15","Cropland__Heated__2","Cropland","Heated","T2","2","0-15","N gene potential","2023-2024",0.311926762208851
+"Cropland__Heated__2__15-30","Cropland__Heated__2","Cropland","Heated","T2","2","15-30","N gene potential","2022-2023",0.890343366297424
+"Cropland__Heated__2__15-30","Cropland__Heated__2","Cropland","Heated","T2","2","15-30","N gene potential","2023-2024",0.109656633702576
+"Cropland__Heated__2__30-50","Cropland__Heated__2","Cropland","Heated","T2","2","30-50","N gene potential","2022-2023",0.494963408545861
+"Cropland__Heated__2__30-50","Cropland__Heated__2","Cropland","Heated","T2","2","30-50","N gene potential","2023-2024",0.505036591454139
+"Cropland__Heated__3__0-15","Cropland__Heated__3","Cropland","Heated","T3","3","0-15","N gene potential","2022-2023",0.38255714143841
+"Cropland__Heated__3__0-15","Cropland__Heated__3","Cropland","Heated","T3","3","0-15","N gene potential","2023-2024",0.61744285856159
+"Cropland__Heated__3__15-30","Cropland__Heated__3","Cropland","Heated","T3","3","15-30","N gene potential","2022-2023",0.809168860107552
+"Cropland__Heated__3__15-30","Cropland__Heated__3","Cropland","Heated","T3","3","15-30","N gene potential","2023-2024",0.190831139892448
+"Cropland__Heated__3__30-50","Cropland__Heated__3","Cropland","Heated","T3","3","30-50","N gene potential","2022-2023",0.815504554785685
+"Cropland__Heated__3__30-50","Cropland__Heated__3","Cropland","Heated","T3","3","30-50","N gene potential","2023-2024",0.184495445214315
+"Grassland__Control__1__0-15","Grassland__Control__1","Grassland","Control","C1","1","0-15","N gene potential","2022-2023",0.223750159094189
+"Grassland__Control__1__0-15","Grassland__Control__1","Grassland","Control","C1","1","0-15","N gene potential","2023-2024",0.776249840905811
+"Grassland__Control__1__15-30","Grassland__Control__1","Grassland","Control","C1","1","15-30","N gene potential","2022-2023",0.326586723721743
+"Grassland__Control__1__15-30","Grassland__Control__1","Grassland","Control","C1","1","15-30","N gene potential","2023-2024",0.673413276278257
+"Grassland__Control__1__30-50","Grassland__Control__1","Grassland","Control","C1","1","30-50","N gene potential","2022-2023",0.394072835761526
+"Grassland__Control__1__30-50","Grassland__Control__1","Grassland","Control","C1","1","30-50","N gene potential","2023-2024",0.605927164238474
+"Grassland__Control__2__0-15","Grassland__Control__2","Grassland","Control","C2","2","0-15","N gene potential","2022-2023",0.367901452718974
+"Grassland__Control__2__0-15","Grassland__Control__2","Grassland","Control","C2","2","0-15","N gene potential","2023-2024",0.632098547281026
+"Grassland__Control__2__15-30","Grassland__Control__2","Grassland","Control","C2","2","15-30","N gene potential","2022-2023",0.706108402143032
+"Grassland__Control__2__15-30","Grassland__Control__2","Grassland","Control","C2","2","15-30","N gene potential","2023-2024",0.293891597856968
+"Grassland__Control__2__30-50","Grassland__Control__2","Grassland","Control","C2","2","30-50","N gene potential","2022-2023",0.5229796773932
+"Grassland__Control__2__30-50","Grassland__Control__2","Grassland","Control","C2","2","30-50","N gene potential","2023-2024",0.4770203226068
+"Grassland__Control__3__0-15","Grassland__Control__3","Grassland","Control","C3","3","0-15","N gene potential","2022-2023",0.514043311188011
+"Grassland__Control__3__0-15","Grassland__Control__3","Grassland","Control","C3","3","0-15","N gene potential","2023-2024",0.485956688811989
+"Grassland__Control__3__15-30","Grassland__Control__3","Grassland","Control","C3","3","15-30","N gene potential","2022-2023",0.518211786762154
+"Grassland__Control__3__15-30","Grassland__Control__3","Grassland","Control","C3","3","15-30","N gene potential","2023-2024",0.481788213237846
+"Grassland__Control__3__30-50","Grassland__Control__3","Grassland","Control","C3","3","30-50","N gene potential","2022-2023",0.655432248084469
+"Grassland__Control__3__30-50","Grassland__Control__3","Grassland","Control","C3","3","30-50","N gene potential","2023-2024",0.344567751915531
+"Grassland__Heated__1__0-15","Grassland__Heated__1","Grassland","Heated","T1","1","0-15","N gene potential","2022-2023",0.241832508361308
+"Grassland__Heated__1__0-15","Grassland__Heated__1","Grassland","Heated","T1","1","0-15","N gene potential","2023-2024",0.758167491638692
+"Grassland__Heated__1__15-30","Grassland__Heated__1","Grassland","Heated","T1","1","15-30","N gene potential","2022-2023",0.0715853814768102
+"Grassland__Heated__1__15-30","Grassland__Heated__1","Grassland","Heated","T1","1","15-30","N gene potential","2023-2024",0.92841461852319
+"Grassland__Heated__1__30-50","Grassland__Heated__1","Grassland","Heated","T1","1","30-50","N gene potential","2022-2023",0.597932508785048
+"Grassland__Heated__1__30-50","Grassland__Heated__1","Grassland","Heated","T1","1","30-50","N gene potential","2023-2024",0.402067491214952
+"Grassland__Heated__2__0-15","Grassland__Heated__2","Grassland","Heated","T2","2","0-15","N gene potential","2022-2023",0.441636149448249
+"Grassland__Heated__2__0-15","Grassland__Heated__2","Grassland","Heated","T2","2","0-15","N gene potential","2023-2024",0.558363850551751
+"Grassland__Heated__2__15-30","Grassland__Heated__2","Grassland","Heated","T2","2","15-30","N gene potential","2022-2023",0.767597245496113
+"Grassland__Heated__2__15-30","Grassland__Heated__2","Grassland","Heated","T2","2","15-30","N gene potential","2023-2024",0.232402754503887
+"Grassland__Heated__2__30-50","Grassland__Heated__2","Grassland","Heated","T2","2","30-50","N gene potential","2022-2023",0.705189446468068
+"Grassland__Heated__2__30-50","Grassland__Heated__2","Grassland","Heated","T2","2","30-50","N gene potential","2023-2024",0.294810553531932
+"Grassland__Heated__3__0-15","Grassland__Heated__3","Grassland","Heated","T3","3","0-15","N gene potential","2022-2023",0.655039815724965
+"Grassland__Heated__3__0-15","Grassland__Heated__3","Grassland","Heated","T3","3","0-15","N gene potential","2023-2024",0.344960184275035
+"Grassland__Heated__3__15-30","Grassland__Heated__3","Grassland","Heated","T3","3","15-30","N gene potential","2022-2023",0.695371465704543
+"Grassland__Heated__3__15-30","Grassland__Heated__3","Grassland","Heated","T3","3","15-30","N gene potential","2023-2024",0.304628534295457
+"Grassland__Heated__3__30-50","Grassland__Heated__3","Grassland","Heated","T3","3","30-50","N gene potential","2022-2023",0.261408824821735
+"Grassland__Heated__3__30-50","Grassland__Heated__3","Grassland","Heated","T3","3","30-50","N gene potential","2023-2024",0.738591175178265
+"Cropland__Control__1__0-15","Cropland__Control__1","Cropland","Control","C1","1","0-15","N functioning","2022-2023",0.450471976049134
+"Cropland__Control__1__0-15","Cropland__Control__1","Cropland","Control","C1","1","0-15","N functioning","2023-2024",0.549528023950866
+"Cropland__Control__1__15-30","Cropland__Control__1","Cropland","Control","C1","1","15-30","N functioning","2022-2023",0.367078543932493
+"Cropland__Control__1__15-30","Cropland__Control__1","Cropland","Control","C1","1","15-30","N functioning","2023-2024",0.632921456067507
+"Cropland__Control__1__30-50","Cropland__Control__1","Cropland","Control","C1","1","30-50","N functioning","2022-2023",0.497943253388497
+"Cropland__Control__1__30-50","Cropland__Control__1","Cropland","Control","C1","1","30-50","N functioning","2023-2024",0.502056746611503
+"Cropland__Control__2__0-15","Cropland__Control__2","Cropland","Control","C2","2","0-15","N functioning","2022-2023",0.413455883767804
+"Cropland__Control__2__0-15","Cropland__Control__2","Cropland","Control","C2","2","0-15","N functioning","2023-2024",0.586544116232196
+"Cropland__Control__2__15-30","Cropland__Control__2","Cropland","Control","C2","2","15-30","N functioning","2022-2023",0.640569812610172
+"Cropland__Control__2__15-30","Cropland__Control__2","Cropland","Control","C2","2","15-30","N functioning","2023-2024",0.359430187389828
+"Cropland__Control__2__30-50","Cropland__Control__2","Cropland","Control","C2","2","30-50","N functioning","2022-2023",0.467305252181105
+"Cropland__Control__2__30-50","Cropland__Control__2","Cropland","Control","C2","2","30-50","N functioning","2023-2024",0.532694747818895
+"Cropland__Control__3__0-15","Cropland__Control__3","Cropland","Control","C3","3","0-15","N functioning","2022-2023",0.286064772547969
+"Cropland__Control__3__0-15","Cropland__Control__3","Cropland","Control","C3","3","0-15","N functioning","2023-2024",0.713935227452031
+"Cropland__Control__3__15-30","Cropland__Control__3","Cropland","Control","C3","3","15-30","N functioning","2022-2023",0.447223666912892
+"Cropland__Control__3__15-30","Cropland__Control__3","Cropland","Control","C3","3","15-30","N functioning","2023-2024",0.552776333087108
+"Cropland__Control__3__30-50","Cropland__Control__3","Cropland","Control","C3","3","30-50","N functioning","2022-2023",0.511595291667835
+"Cropland__Control__3__30-50","Cropland__Control__3","Cropland","Control","C3","3","30-50","N functioning","2023-2024",0.488404708332165
+"Cropland__Heated__1__0-15","Cropland__Heated__1","Cropland","Heated","T1","1","0-15","N functioning","2022-2023",0.170796692963155
+"Cropland__Heated__1__0-15","Cropland__Heated__1","Cropland","Heated","T1","1","0-15","N functioning","2023-2024",0.829203307036845
+"Cropland__Heated__1__15-30","Cropland__Heated__1","Cropland","Heated","T1","1","15-30","N functioning","2022-2023",0.437839345134074
+"Cropland__Heated__1__15-30","Cropland__Heated__1","Cropland","Heated","T1","1","15-30","N functioning","2023-2024",0.562160654865926
+"Cropland__Heated__1__30-50","Cropland__Heated__1","Cropland","Heated","T1","1","30-50","N functioning","2022-2023",0.44923861511997
+"Cropland__Heated__1__30-50","Cropland__Heated__1","Cropland","Heated","T1","1","30-50","N functioning","2023-2024",0.55076138488003
+"Cropland__Heated__2__0-15","Cropland__Heated__2","Cropland","Heated","T2","2","0-15","N functioning","2022-2023",0.370673768971193
+"Cropland__Heated__2__0-15","Cropland__Heated__2","Cropland","Heated","T2","2","0-15","N functioning","2023-2024",0.629326231028807
+"Cropland__Heated__2__15-30","Cropland__Heated__2","Cropland","Heated","T2","2","15-30","N functioning","2022-2023",0.496424962008728
+"Cropland__Heated__2__15-30","Cropland__Heated__2","Cropland","Heated","T2","2","15-30","N functioning","2023-2024",0.503575037991272
+"Cropland__Heated__2__30-50","Cropland__Heated__2","Cropland","Heated","T2","2","30-50","N functioning","2022-2023",0.490042597081947
+"Cropland__Heated__2__30-50","Cropland__Heated__2","Cropland","Heated","T2","2","30-50","N functioning","2023-2024",0.509957402918053
+"Cropland__Heated__3__0-15","Cropland__Heated__3","Cropland","Heated","T3","3","0-15","N functioning","2022-2023",0.489559267098262
+"Cropland__Heated__3__0-15","Cropland__Heated__3","Cropland","Heated","T3","3","0-15","N functioning","2023-2024",0.510440732901738
+"Cropland__Heated__3__15-30","Cropland__Heated__3","Cropland","Heated","T3","3","15-30","N functioning","2022-2023",0.349641264575747
+"Cropland__Heated__3__15-30","Cropland__Heated__3","Cropland","Heated","T3","3","15-30","N functioning","2023-2024",0.650358735424253
+"Cropland__Heated__3__30-50","Cropland__Heated__3","Cropland","Heated","T3","3","30-50","N functioning","2022-2023",0.456681711814039
+"Cropland__Heated__3__30-50","Cropland__Heated__3","Cropland","Heated","T3","3","30-50","N functioning","2023-2024",0.543318288185961
+"Grassland__Control__1__0-15","Grassland__Control__1","Grassland","Control","C1","1","0-15","N functioning","2022-2023",0.189136225833763
+"Grassland__Control__1__0-15","Grassland__Control__1","Grassland","Control","C1","1","0-15","N functioning","2023-2024",0.810863774166237
+"Grassland__Control__1__15-30","Grassland__Control__1","Grassland","Control","C1","1","15-30","N functioning","2022-2023",0.400961166912533
+"Grassland__Control__1__15-30","Grassland__Control__1","Grassland","Control","C1","1","15-30","N functioning","2023-2024",0.599038833087467
+"Grassland__Control__1__30-50","Grassland__Control__1","Grassland","Control","C1","1","30-50","N functioning","2022-2023",0.45441912968232
+"Grassland__Control__1__30-50","Grassland__Control__1","Grassland","Control","C1","1","30-50","N functioning","2023-2024",0.54558087031768
+"Grassland__Control__2__0-15","Grassland__Control__2","Grassland","Control","C2","2","0-15","N functioning","2022-2023",0.154431444857655
+"Grassland__Control__2__0-15","Grassland__Control__2","Grassland","Control","C2","2","0-15","N functioning","2023-2024",0.845568555142345
+"Grassland__Control__2__15-30","Grassland__Control__2","Grassland","Control","C2","2","15-30","N functioning","2022-2023",0.465173818085311
+"Grassland__Control__2__15-30","Grassland__Control__2","Grassland","Control","C2","2","15-30","N functioning","2023-2024",0.534826181914689
+"Grassland__Control__2__30-50","Grassland__Control__2","Grassland","Control","C2","2","30-50","N functioning","2022-2023",0.269013047952836
+"Grassland__Control__2__30-50","Grassland__Control__2","Grassland","Control","C2","2","30-50","N functioning","2023-2024",0.730986952047164
+"Grassland__Control__3__0-15","Grassland__Control__3","Grassland","Control","C3","3","0-15","N functioning","2022-2023",0.327081275045073
+"Grassland__Control__3__0-15","Grassland__Control__3","Grassland","Control","C3","3","0-15","N functioning","2023-2024",0.672918724954927
+"Grassland__Control__3__15-30","Grassland__Control__3","Grassland","Control","C3","3","15-30","N functioning","2022-2023",0.452776742841656
+"Grassland__Control__3__15-30","Grassland__Control__3","Grassland","Control","C3","3","15-30","N functioning","2023-2024",0.547223257158344
+"Grassland__Control__3__30-50","Grassland__Control__3","Grassland","Control","C3","3","30-50","N functioning","2022-2023",0.174920572157103
+"Grassland__Control__3__30-50","Grassland__Control__3","Grassland","Control","C3","3","30-50","N functioning","2023-2024",0.825079427842897
+"Grassland__Heated__1__0-15","Grassland__Heated__1","Grassland","Heated","T1","1","0-15","N functioning","2022-2023",0.262432957849074
+"Grassland__Heated__1__0-15","Grassland__Heated__1","Grassland","Heated","T1","1","0-15","N functioning","2023-2024",0.737567042150926
+"Grassland__Heated__1__15-30","Grassland__Heated__1","Grassland","Heated","T1","1","15-30","N functioning","2022-2023",0.175105841983182
+"Grassland__Heated__1__15-30","Grassland__Heated__1","Grassland","Heated","T1","1","15-30","N functioning","2023-2024",0.824894158016818
+"Grassland__Heated__1__30-50","Grassland__Heated__1","Grassland","Heated","T1","1","30-50","N functioning","2022-2023",0.591978794443793
+"Grassland__Heated__1__30-50","Grassland__Heated__1","Grassland","Heated","T1","1","30-50","N functioning","2023-2024",0.408021205556207
+"Grassland__Heated__2__0-15","Grassland__Heated__2","Grassland","Heated","T2","2","0-15","N functioning","2022-2023",0.273022400602598
+"Grassland__Heated__2__0-15","Grassland__Heated__2","Grassland","Heated","T2","2","0-15","N functioning","2023-2024",0.726977599397402
+"Grassland__Heated__2__15-30","Grassland__Heated__2","Grassland","Heated","T2","2","15-30","N functioning","2022-2023",0.379165596758654
+"Grassland__Heated__2__15-30","Grassland__Heated__2","Grassland","Heated","T2","2","15-30","N functioning","2023-2024",0.620834403241346
+"Grassland__Heated__2__30-50","Grassland__Heated__2","Grassland","Heated","T2","2","30-50","N functioning","2022-2023",0.471323936849358
+"Grassland__Heated__2__30-50","Grassland__Heated__2","Grassland","Heated","T2","2","30-50","N functioning","2023-2024",0.528676063150642
+"Grassland__Heated__3__0-15","Grassland__Heated__3","Grassland","Heated","T3","3","0-15","N functioning","2022-2023",0.421615901854419
+"Grassland__Heated__3__0-15","Grassland__Heated__3","Grassland","Heated","T3","3","0-15","N functioning","2023-2024",0.578384098145581
+"Grassland__Heated__3__15-30","Grassland__Heated__3","Grassland","Heated","T3","3","15-30","N functioning","2022-2023",0.360896221573856
+"Grassland__Heated__3__15-30","Grassland__Heated__3","Grassland","Heated","T3","3","15-30","N functioning","2023-2024",0.639103778426144
+"Grassland__Heated__3__30-50","Grassland__Heated__3","Grassland","Heated","T3","3","30-50","N functioning","2022-2023",0.42778205378173
+"Grassland__Heated__3__30-50","Grassland__Heated__3","Grassland","Heated","T3","3","30-50","N functioning","2023-2024",0.57221794621827

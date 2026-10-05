@@ -1,0 +1,11 @@
+"marker","adjustment","permutation","RV","p_perm","n_perm","p_FDR"
+"Archaea","raw","whole_profile_within_LandUse_x_Treatment_matched_Year_x_Depth",0.121218364001578,0.217592592592593,1296,0.271990740740741
+"Archaea","residual_Year_x_Treatment_x_LandUse_x_Depth_plus_Block","whole_profile_within_LandUse_x_Treatment_matched_Year_x_Depth",0.0323456117816094,0.849537037037037,1296,0.849537037037037
+"Bacteria","raw","whole_profile_within_LandUse_x_Treatment_matched_Year_x_Depth",0.416348815158934,0.000771604938271605,1296,0.00385802469135802
+"Bacteria","residual_Year_x_Treatment_x_LandUse_x_Depth_plus_Block","whole_profile_within_LandUse_x_Treatment_matched_Year_x_Depth",0.104683208790683,0.0439814814814815,1296,0.219907407407407
+"Fungi","raw","whole_profile_within_LandUse_x_Treatment_matched_Year_x_Depth",0.177065944538413,0.828703703703704,1296,0.828703703703704
+"Fungi","residual_Year_x_Treatment_x_LandUse_x_Depth_plus_Block","whole_profile_within_LandUse_x_Treatment_matched_Year_x_Depth",0.0850919982706912,0.627314814814815,1296,0.784143518518518
+"Nematodes","raw","whole_profile_within_LandUse_x_Treatment_matched_Year_x_Depth",0.151117608376238,0.0354938271604938,1296,0.059156378600823
+"Nematodes","residual_Year_x_Treatment_x_LandUse_x_Depth_plus_Block","whole_profile_within_LandUse_x_Treatment_matched_Year_x_Depth",0.0975281544599198,0.0979938271604938,1296,0.244984567901235
+"Protists","raw","whole_profile_within_LandUse_x_Treatment_matched_Year_x_Depth",0.272719986400525,0.0131172839506173,1296,0.0327932098765432
+"Protists","residual_Year_x_Treatment_x_LandUse_x_Depth_plus_Block","whole_profile_within_LandUse_x_Treatment_matched_Year_x_Depth",0.0850228826942527,0.287808641975309,1296,0.479681069958848

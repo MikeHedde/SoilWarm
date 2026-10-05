@@ -1,0 +1,4 @@
+"plate","sample_number","Year","MET","condition","Depth","plate_treatment","DNA_concentration","is_extraction_blank","LandUse","Treatment","sample_number_num","rep","Plot","Block","profile_id","sample_unit_id","is_negative","negative_type","Nom_Ech"
+"plaque2","Témoin extraction 1",2024,"MET250200",NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,"extraction_blank","Plaque2_Ech-Témoin extraction 1_2024"
+"plaque2","Témoin extraction 2",2024,"MET250204",NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,"extraction_blank","Plaque2_Ech-Témoin extraction 2_2024"
+"plaque2","Témoin extraction 3",2024,"MET250208",NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,"extraction_blank","Plaque2_Ech-Témoin extraction 3_2024"

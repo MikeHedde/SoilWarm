@@ -1,0 +1,2 @@
+"observed_mean_timing_shift","p_exact_two_sided","n_profile_sign_flips","null_q025","null_median","null_q975","tax_mean_early_fraction","N_mean_early_fraction","tax_mean_interval_balance","N_mean_interval_balance","interpretation"
+0.545018728369332,0.00048828125,4096,-0.31657589057347,0,0.31657589057347,0.662616136598275,0.390106772413609,-0.32523227319655,0.219786455172782,"Positive timing_shift means N movement is relatively later than taxonomic movement."

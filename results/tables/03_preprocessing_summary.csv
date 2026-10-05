@@ -1,0 +1,6 @@
+"marker","rank","n_asv_scope","n_contaminants","n_asv_after_decontam","n_asv_assigned_rank","n_taxa_before_prevalence","n_taxa_after_prevalence","prevalence_threshold","median_assigned_fraction","min_assigned_fraction"
+"Archaea","Family",1196,0,1196,565,12,11,0.1,0.794461763970643,0.271747049395308
+"Bacteria","Family",21728,37,21691,14762,288,223,0.1,0.720287428321026,0.614580031695721
+"Fungi","Genus",2572,83,2489,1278,287,160,0.1,0.65597953418859,0.18414953271028
+"Nematodes","Genus",2078,0,2078,1536,82,45,0.1,0.839486396693069,0.35969868173258
+"Protists","Genus",4846,0,4846,4393,492,334,0.1,0.865518172225085,0.687704026115343

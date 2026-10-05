@@ -1,0 +1,5 @@
+"N_block","adjustment","permutation","RV","p_perm","n_perm","p_FDR_all_blocks"
+"realised_N_processes","raw","whole_profile_within_LandUse_x_Treatment_matched_Year_x_Depth",0.254368786486977,0.112654320987654,1296,0.450617283950617
+"realised_N_processes","residual_Year_x_Treatment_x_LandUse_x_Depth_plus_Block","whole_profile_within_LandUse_x_Treatment_matched_Year_x_Depth",0.0213940479871246,0.652006172839506,1296,0.652006172839506
+"N_gene_potential","raw","whole_profile_within_LandUse_x_Treatment_matched_Year_x_Depth",0.064133550090876,0.302469135802469,1296,0.604938271604938
+"N_gene_potential","residual_Year_x_Treatment_x_LandUse_x_Depth_plus_Block","whole_profile_within_LandUse_x_Treatment_matched_Year_x_Depth",0.0123343673095563,0.603395061728395,1296,0.652006172839506

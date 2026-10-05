@@ -1,0 +1,2 @@
+"RV_Heated","RV_Control","RV_difference_Heated_minus_Control","p_exact_two_sided","n_label_swaps","scheme"
+0.118499113491274,0.119603144216229,-0.00110403072495543,1,64,"exact profile treatment-label swaps within LandUse x Block"

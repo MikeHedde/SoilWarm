@@ -1,0 +1,2 @@
+"method","n_rows","n_profiles","n_strata","profiles_per_stratum","theoretical_permutations","generated_permutations","strata","matched_within_profile"
+"exact",108,12,4,"3;3;3;3",1296,1296,"LandUse × Treatment","Year × Depth"

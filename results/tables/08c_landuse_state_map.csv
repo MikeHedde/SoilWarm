@@ -1,0 +1,7 @@
+"LandUseTrajectory","Year","LandUseState"
+"Stable_PP",2022,"PermanentPasture"
+"Stable_PP",2023,"PermanentPasture"
+"Stable_PP",2024,"PermanentPasture"
+"TP_to_Crop",2022,"TemporaryPasture"
+"TP_to_Crop",2023,"Crop"
+"TP_to_Crop",2024,"Crop"
