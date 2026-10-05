@@ -1,6 +1,6 @@
 # SoilWarm
 
-Analysis workflow for the **SoilWarm / ORE ACBB experiment**, investigating how soil biodiversity, nitrogen-cycle functional potential, and potential nitrogen activities respond through time to **land-use change and experimental warming**.
+Analysis workflow for the **SoilWarm ANR project on the ORE ACBB experiment**, investigating how soil biodiversity, nitrogen-cycle functional potential, and potential nitrogen activities respond through time to **land-use change and experimental warming**.
 
 ## Scientific objectives
 
@@ -9,13 +9,10 @@ The project examines whether changes in different levels of soil biological orga
 The analyses distinguish three complementary domains:
 
 1. **Multi-kingdom taxonomic structure**  
-   Archaea, Bacteria, Fungi, Nematodes and Protists.
 
 2. **Nitrogen-cycle functional-gene potential**  
-   AOA, AOB, ComA, ComB, `nirS`, `nirK` and `nosZ1`.
 
 3. **Potential nitrogen activities**  
-   PGNP, PNNP, N2O reduction and NEA.
 
 The main questions are:
 
@@ -26,7 +23,7 @@ The main questions are:
 
 ## Experimental design
 
-The primary analysis covers **2022–2024** and includes:
+The primary analysis covers **2022–>2024** and includes:
 
 - 2 land-use trajectories:
   - `Stable PP`: permanent pasture maintained throughout the study
@@ -103,14 +100,8 @@ The workflow includes:
 - temporal change vectors for 2022–2023 and 2023–2024;
 - comparison of the temporal allocation of change among biological domains;
 - exact profile-level sign-flip tests;
-- land-use difference-in-change contrasts:
-  
-  `TP_to_Crop − Stable PP`
-
-- warming contrasts:
-  
-  `Heated − Control`
-
+- land-use difference-in-change contrasts:   `TP_to_Crop − Stable PP`
+- warming contrasts:   `Heated − Control`
 - land-use × warming interaction contrasts;
 - process- and gene-specific temporal analyses;
 - FDR correction for families of related tests.
